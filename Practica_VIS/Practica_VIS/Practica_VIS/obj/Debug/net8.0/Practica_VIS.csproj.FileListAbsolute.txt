@@ -1,0 +1,14 @@
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\bin\Debug\net8.0\Practica_VIS.exe
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\bin\Debug\net8.0\Practica_VIS.deps.json
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\bin\Debug\net8.0\Practica_VIS.runtimeconfig.json
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\bin\Debug\net8.0\Practica_VIS.dll
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\bin\Debug\net8.0\Practica_VIS.pdb
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\obj\Debug\net8.0\Practica_VIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\obj\Debug\net8.0\Practica_VIS.AssemblyInfoInputs.cache
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\obj\Debug\net8.0\Practica_VIS.AssemblyInfo.cs
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\obj\Debug\net8.0\Practica_VIS.csproj.CoreCompileInputs.cache
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\obj\Debug\net8.0\Practica_VIS.dll
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\obj\Debug\net8.0\refint\Practica_VIS.dll
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\obj\Debug\net8.0\Practica_VIS.pdb
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\obj\Debug\net8.0\Practica_VIS.genruntimeconfig.cache
+C:\Users\yurje\OneDrive\Рабочий стол\Practica_VIS\Practica_VIS\Practica_VIS\obj\Debug\net8.0\ref\Practica_VIS.dll
